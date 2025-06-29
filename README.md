@@ -488,3 +488,13 @@ This comprehensive ChEMBL MCP Server is developed by **[Augmented Nature](https:
 - **Docker Support**: Containerized deployment with security best practices
 - **Professional Documentation**: Complete tool reference and examples
 - **Developed by Augmented Nature**: Professional chemical informatics platform
+
+## Citation
+If you use this project in your research or publications, please cite it as follows:
+
+```bibtex @misc{chemblmcp2025, 
+author = {Moudather Chelbi},
+title = {ChEMBL MCP Server},
+year = {2025},
+howpublished = {https://github.com/Augmented-Nature/ChEMBL-MCP-Server},
+note = {Accessed: 2025-06-29}
